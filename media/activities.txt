@@ -1,0 +1,7 @@
+Walking to Work, 10
+Eating a 8oz, -10
+Cycling to the shops,5
+Driving to work, -5
+Leisure drive 10km, -3
+Vegetarian for a day, 7
+Cycling to work, 7
